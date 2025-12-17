@@ -49,15 +49,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ajinkyaasm&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
----
 
-### 🌱 Currently Focusing On
-- Spark performance tuning & internals
-- Data pipeline reliability & monitoring
-- Scalable data modeling for analytics
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajinkyaasm&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
